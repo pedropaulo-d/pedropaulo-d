@@ -2,7 +2,7 @@
 
 
 - ⚡️ Sou estudante de ADS.
-- 👨🏽‍💻 Atualmente avançando em Pyhton.
+- 👨🏽‍💻 Atualmente avançando em JavaScript, HTML e CSS.
 - 📫 Meu email: pedrobrpp5@gmail.com
 - ☕️ Bebam Café!
 
