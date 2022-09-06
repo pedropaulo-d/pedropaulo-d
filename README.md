@@ -1,7 +1,7 @@
 ### Oi gente! Sou o Pedro ☕️
 
 
-- ⚡️ Sou estudante de ADS.
+- ⚡️ Sou estudante de Sistemas de Informação.
 - 👨🏽‍💻 Atualmente avançando em JavaScript, HTML e CSS.
 - 📫 Meu email: pedrobrpp5@gmail.com
 - ☕️ Bebam Café!
