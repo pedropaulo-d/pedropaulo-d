@@ -2,8 +2,8 @@
 
 
 - ⚡️ Sou estudante de Sistemas de Informação.
-- 👨🏽‍💻 Atualmente avançando em Python.
-- 📫 Meu email: pedrobrpp5@gmail.com
+- 👨🏽‍💻 Atualmente avançando em Django e Django Rest Framework.
+- 📫 Meu email: paulopedro.dev@gmail.com
 - ☕️ Bebam Café!
 
 <div style="display: inline_block"><br>
