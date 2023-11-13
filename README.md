@@ -2,7 +2,7 @@
 
 
 - ⚡️ Sou estudante de Sistemas de Informação.
-- 👨🏽‍💻 Atualmente avançando em Django e Django Rest Framework.
+- 👨🏽‍💻 Atualmente avançando em Django e FastAPI.
 - 📫 Meu email: paulopedro.dev@gmail.com
 - ☕️ Bebam Café!
 
