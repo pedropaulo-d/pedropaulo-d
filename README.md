@@ -1,8 +1,7 @@
-### Opa! Sou o Pedro, Desenvolvedor de Software! ☕️
+### Opa! Sou o Pedro, Estudante de Análise e Ciência de Dados! ☕️
 
 
 - ⚡️ Sou estudante de Sistemas de Informação.
-- 👨🏽‍💻 Atualmente avançando em Django e Django Rest Framework.
 - 📫 Meu email: paulopedro.dev@gmail.com
 - ☕️ Bebam Café!
 
