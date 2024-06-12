@@ -1,9 +1,9 @@
-### Opa! Sou o Pedro, Estudante de Análise e Ciência de Dados! ☕️
+### Hey! I'm Pedro, a Data Science and Analysis student! ☕️
 
 
-- ⚡️ Sou estudante de Sistemas de Informação.
-- 📫 Meu email: paulopedro.dev@gmail.com
-- ☕️ Bebam Café!
+- ⚡️ I'm a Information Systems student.
+- 📫 My email: paulopedro.dev@gmail.com
+- ☕️ Drink coffee!
 
 <!--
 <div align="center">
