@@ -1,9 +1,9 @@
-### Hey! I'm Pedro, a Data Science and Analysis student! ☕️
+### Hey! I'm Pedro, a Data Science and Analysis student! ☕
 
 
-- ⚡️ I'm a Information Systems student.
-- 📫 My email: paulopedro.dev@gmail.com
-- ☕️ Drink coffee!
+- I'm a Information Systems student.
+- My email: paulopedro.dev@gmail.com
+
 
 <!--
 <div align="center">
