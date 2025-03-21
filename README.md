@@ -1,4 +1,4 @@
-### Hey! I'm Pedro, a Data Science and Analysis student! ☕
+### Hi, I'm Pedro, a data engineering student! ☕
 
 
 - I'm a Information Systems student.
