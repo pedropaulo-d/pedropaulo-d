@@ -1,4 +1,4 @@
-### Hi, I'm Pedro, a no-code/low-code developer! ☕
+### Hi, I'm Pedro, a software engineer! ☕
 
 
 - I'm a Information Systems student.
