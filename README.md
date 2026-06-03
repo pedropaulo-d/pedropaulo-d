@@ -1,4 +1,4 @@
-### Hi, I'm Pedro, a software engineer! ☕
+### Hi, I'm Pedro, a data engineer! ☕
 
 
 - I'm a Information Systems student.
