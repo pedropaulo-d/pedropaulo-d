@@ -19,9 +19,9 @@
 
 ## 📊 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropaulo-d&show_icons=true&theme=tokyonight)
+[![Pedro's GitHub stats](https://github-readme-stats-tau-steel-23.vercel.app/api?username=pedropaulo-d&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/pedropaulo-d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaulo-d&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-tau-steel-23.vercel.app/api/top-langs/?username=pedropaulo-d&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/pedropaulo-d)
 
 ## 🔗 Connect
 
