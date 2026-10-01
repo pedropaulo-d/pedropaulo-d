@@ -1,11 +1,10 @@
 # Hi, I'm Pedro, a Data & Automation professional! ☕
 
-> Building reliable data pipelines and turning raw data into decisions.
+> Building reliable data pipelines and automating the path from raw data to decisions.
 
-- 🎓 Information Systems student (graduating late 2026)
-- 🛠️ Focused on **ETL/ELT**, dimensional modeling and cloud data platforms
-- 📍 Based in Brazil | open to remote Data Engineering roles
-- 📫 **paulopedro.dev@gmail.com**
+* 🎓 Information Systems student (graduating late 2026)
+* 🛠️ Focused on ETL/ELT, process automation (n8n/Make) and dimensional modeling
+* 📍 Based in Brazil | open to remote Data & Automation roles
 
 ## 🧰 Tech Stack
 
